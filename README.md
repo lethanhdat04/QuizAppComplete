@@ -2,4 +2,4 @@
 
 ***Back-end use Spring Boot and Front-end use React&Tailwind***
 
-**Website random quiz with category. User can create, read, update and delete question**
+**Website random quiz with category. User can create, read, update and delete questions**
